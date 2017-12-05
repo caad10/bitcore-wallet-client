@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib": "https://github.com/janko33bd/bitcore-lib.git#iris",
+    "bitcore-lib": "https://github.com/janko33bd/bitcore-lib.git#blackcore-lib",
     "bitcore-mnemonic": "https://github.com/janko33bd/bitcore-mnemonic.git#iris",
     "bitcore-payment-protocol": "https://github.com/janko33bd/bitcore-payment-protocol.git#iris",
     "browser-request": "^0.3.3",
